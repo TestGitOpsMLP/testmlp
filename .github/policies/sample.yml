@@ -1,0 +1,8 @@
+name: test sample primitive
+description: test mlp
+
+resource: repository
+
+configuration:
+  samplePrimitive:
+    commentSuffix: example of comment suffix from Github.
